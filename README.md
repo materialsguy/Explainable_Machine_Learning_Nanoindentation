@@ -19,6 +19,16 @@ The repository is structured as follows:
 
 │     └── *.ipynb
 
+├── Supervised Machine Learning Pipelines/
+  └── *.ipynb
+
+├── k-means/
+  └── *.ipynb
+
+
+
+
+
 
 
 
