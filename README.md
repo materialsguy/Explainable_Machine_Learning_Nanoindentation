@@ -3,27 +3,24 @@ Codes to the publication "Explainable machine learning and feature engineering a
 
 The repository is structured as follows:
 
+XAI-Nanoindentation/
+│
 ├── Results/
-
-│   ├── /cross-validation/
-
-│     └── *.pkl The pickled Results of the Cross Validation Workflow shown in the folder Supervised Machine Learning Pipelines
-
-│     └── *.ipynb Codes to plot the Results
-
-│   ├── /models/
-
-│     └── *.pkl The pickled best supervised Machine Learning Model and its corresponding SHAP explainer
-
-│   ├── /plots/
-
-│     └── *.ipynb The codes to generate SHAP plots and other analyses in the paper.
-
+│   ├── cross-validation/
+│   │   ├── *.pkl         # Pickled results from the cross-validation workflow
+│   │   └── *.ipynb       # Jupyter notebooks for plotting and analyzing CV results
+│   │
+│   ├── models/
+│   │   ├── *.pkl         # Trained ML models and corresponding SHAP explainers
+│   │
+│   ├── plots/
+│       └── *.ipynb       # Notebooks generating SHAP and other explanatory plots
+│
 ├── Supervised Machine Learning Pipelines/
-  └── *.ipynb Cross Validation Pipelines.
-
-├── k-means/
-  └── *.ipynb Notebooks showing the application of the k-means clustering
+│   └── *.ipynb           # Cross-validation and model training pipelines
+│
+└── k-means/
+    └── *.ipynb           # Clustering analysis using k-means
 
 
 
