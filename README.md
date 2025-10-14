@@ -17,13 +17,13 @@ The repository is structured as follows:
 
 │   ├── /plots/
 
-│     └── *.ipynb
+│     └── *.ipynb The codes to generate SHAP plots and other analyses in the paper.
 
 ├── Supervised Machine Learning Pipelines/
-  └── *.ipynb
+  └── *.ipynb Cross Validation Pipelines.
 
 ├── k-means/
-  └── *.ipynb
+  └── *.ipynb Notebooks showing the application of the k-means clustering
 
 
 
