@@ -3,17 +3,17 @@ Codes to the publication "Explainable machine learning and feature engineering a
 
 ├── Results/
 
-│   ├── cross-validation/
+│   ├── /cross-validation/
 
 │     └── *.pkl Results of the Cross Validation Workflow shown in the folder Supervised Machine Learning Pipelines
 
 │     └── *.ipynb 
 
-│   ├── models/
+│   ├── /models/
 
 │     └── *.pkl 
 
-│   ├── plots/
+│   ├── /plots/
 
 │     └── *.ipynb
 
