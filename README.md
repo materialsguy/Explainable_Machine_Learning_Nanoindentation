@@ -7,13 +7,13 @@ The repository is structured as follows:
 
 │   ├── /cross-validation/
 
-│     └── *.pkl Results of the Cross Validation Workflow shown in the folder Supervised Machine Learning Pipelines
+│     └── *.pkl The pickled Results of the Cross Validation Workflow shown in the folder Supervised Machine Learning Pipelines
 
-│     └── *.ipynb 
+│     └── *.ipynb Codes to plot the Results
 
 │   ├── /models/
 
-│     └── *.pkl 
+│     └── *.pkl The pickled best supervised Machine Learning Model and its corresponding SHAP explainer
 
 │   ├── /plots/
 
