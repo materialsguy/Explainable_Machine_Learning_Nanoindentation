@@ -18,7 +18,7 @@ XAI-Nanoindentation/
 
 │   │   └── *.ipynb       # Jupyter notebooks for plotting and analyzing CV results
 
-│   │
+│   
 
 │   ├── models/
 
@@ -28,7 +28,7 @@ XAI-Nanoindentation/
 
 │   ├── plots/
 
-└── *.ipynb       # Notebooks generating SHAP and other explanatory plots
+│   │   └── *.ipynb       # Notebooks generating SHAP and other explanatory plots
 
 │
 
@@ -38,11 +38,11 @@ XAI-Nanoindentation/
 
 │
 
-└── k-means/
+├── k-means/
 
-│
+│   │
 
-└── *.ipynb           # Clustering analysis using k-means
+│   │ └── *.ipynb           # Clustering analysis using k-means
 
 ----
     
