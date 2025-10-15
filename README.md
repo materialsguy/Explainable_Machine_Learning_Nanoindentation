@@ -16,13 +16,13 @@ XAI-Nanoindentation/
 
 │   │   ├── *.pkl         ➜ **Pickled results from the cross-validation workflow**
 
-│   │   └── *.ipynb       ➜ **Jupyter notebooks for plotting and analyzing CV results**
+│   │   └── *.ipynb       ➜ **Jupyter notebooks for plotting and analyzing Cross-Validation results**
 
 │   │ 
 
 │   ├── models/
 
-│   │   ├── *.pkl         ➜ **Trained ML models and corresponding SHAP explainers**
+│   │   ├── *.pkl         ➜ **Trained Machine Learning models and corresponding SHAP explainers (*https://shap.readthedocs.io/en/latest/*)**
 
 │   │
 
