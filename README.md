@@ -40,7 +40,7 @@ XAI-Nanoindentation/
 
 ├── *k*-means/
 
-│   │ └── *.ipynb          ➜**Clustering analysis using *k*-means**
+│    └── *.ipynb          ➜**Clustering analysis using *k*-means**
 
 C.O.W. T. gratefully acknowledges the financial support under the scope of the UFO program (SPM - PN 3022) by the Austrian State of Styria (Land Steiermark - Abteilung 12 Wirtschaft, Tourismus, Wissenschaft und Forschung). 
 
