@@ -6,7 +6,7 @@ Codes to the publication "Explainable machine learning and feature engineering a
 
 The repository is structured as follows:
 
-XAI-Nanoindentation/
+Explainable_Machine_Learning_Nanoindentation/
 
 │
 
