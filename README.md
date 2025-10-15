@@ -14,27 +14,27 @@ XAI-Nanoindentation/
 
 │   ├── cross-validation/
 
-│   │   ├── *.pkl         # Pickled results from the cross-validation workflow
+│   │   ├── *.pkl         # **Pickled results from the cross-validation workflow**
 
-│   │   └── *.ipynb       # Jupyter notebooks for plotting and analyzing CV results
+│   │   └── *.ipynb       # **Jupyter notebooks for plotting and analyzing CV results**
 
 │   
 
 │   ├── models/
 
-│   │   ├── *.pkl         # Trained ML models and corresponding SHAP explainers
+│   │   ├── *.pkl         # **Trained ML models and corresponding SHAP explainers**
 
 │   │
 
 │   ├── plots/
 
-│   │   └── *.ipynb       # Notebooks generating SHAP and other explanatory plots
+│   │   └── *.ipynb       # **Notebooks generating SHAP and other explanatory plots**
 
 │
 
 ├── Supervised Machine Learning Pipelines/
 
-│   └── *.ipynb           # Cross-validation and model training pipelines
+│   └── *.ipynb           # **Cross-validation and model training pipelines**
 
 │
 
@@ -42,7 +42,7 @@ XAI-Nanoindentation/
 
 │   │
 
-│   │ └── *.ipynb           # Clustering analysis using k-means
+│   │ └── *.ipynb           # **Clustering analysis using k-means**
 
 ----
     
